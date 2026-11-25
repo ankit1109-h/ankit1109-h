@@ -1,25 +1,31 @@
 <div align="center">
 
-# Hi, I'm Ankit Pathak 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:103B46,100:00A896&height=190&section=header&text=ANKIT%20PATHAK&fontSize=42&fontColor=E6F6F5&animation=fadeIn&fontAlignY=38" alt="Ankit Pathak" width="100%" />
 
-### Cybersecurity Analyst | VAPT | SOC | Threat Detection
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFA5&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+%7C+VAPT+Analyst" alt="Cybersecurity Analyst | VAPT Analyst" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00BFA5&center=true&vCenter=true&width=480&lines=Cybersecurity+Postgraduate;Ethical+Hacking+%26+VAPT;Digital+Forensics+%26+OSINT;AI%2FML-Based+Threat+Detection)
+`ASSESS` · `DETECT` · `INVESTIGATE` · `DEFEND`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankit-pathak1119)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitpathak.1119@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-103B46?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-pathak1119)
+[![Email](https://img.shields.io/badge/Email-Contact-103B46?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitpathak.1119@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-103B46?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankit1109-h?tab=repositories)
 
 </div>
 
+---
+
 ## 🛡️ About Me
 
-I am a Cyber Security postgraduate student at Amity University Rajasthan with a background in Forensic Science and hands-on internship experience in cybersecurity. My interests include vulnerability assessment, web application penetration testing, SOC operations, threat intelligence, digital forensics, and machine learning-based threat detection, endpoint monitoring, UEBA, and automated incident response.
+Cybersecurity postgraduate at Amity University Rajasthan with a background in forensic science and hands-on experience in controlled penetration testing, vulnerability assessment, network traffic analysis and security monitoring. My work focuses on identifying security weaknesses, investigating threats and building detection systems.
 
-- 🎓 Pursuing M.Sc. Cyber Security — Class of 2027
-- 🔍 Experienced in controlled security testing and vulnerability reporting
-- 🧠 Building ML-based threat detection and active defense systems
-- 🌐 Interested in network security, OSINT, and threat detection
-- 🤝 Open to cybersecurity internships, entry-level opportunities, and research collaborations
+| Current focus | Areas of interest |
+|---|---|
+| Offensive Security | VAPT, OWASP Top 10, Web Application Security |
+| Defensive Security | SOC Monitoring, Endpoint Security, Incident Response |
+| Investigation | Digital Forensics, OSINT, Threat Intelligence |
+| Research | Behavioral Analytics, Insider Threat Detection, Hybrid IDS |
+
+Open to cybersecurity internships, entry-level roles and research collaborations.
 
 ## ⚡ Technical Skills
 
@@ -28,42 +34,31 @@ I am a Cyber Security postgraduate student at Amity University Rajasthan with a 
 | Security Operations | SOC Monitoring, Threat Detection, Incident Response, Security Event Analysis, Threat Intelligence, IOC Analysis, OSINT, UEBA, Endpoint Monitoring |
 | Cybersecurity & VAPT | Vulnerability Assessment, Penetration Testing, OWASP Top 10, Web Application Security, Network Security, RBAC, Data Exfiltration Detection |
 | Digital Forensics | Digital Evidence Analysis, Forensic Investigation |
-| Programming & ML | Python, Scikit-learn, PyTorch, Random Forest, DBSCAN, Autoencoder, Isolation Forest, LSTM |
-| Platforms & Technologies | Windows, Kali Linux, Linux, Docker, VMware, Flask, Streamlit, SQLite, Windows Event Logs |
+| Platforms & Technologies | Windows, Kali Linux, Linux, Docker, Windows Event Logs |
 
 ## 🧰 Tools & Technologies
 
 ### Security & Network Analysis
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-103B46?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-103B46?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-103B46?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-103B46?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-103B46?style=for-the-badge&logo=owasp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-103B46?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Digital Forensics
 
-![Autopsy](https://img.shields.io/badge/Autopsy-263238?style=for-the-badge)
-![FTK](https://img.shields.io/badge/FTK-37474F?style=for-the-badge)
-![Belkasoft](https://img.shields.io/badge/Belkasoft-1565C0?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-103B46?style=for-the-badge)
+![FTK](https://img.shields.io/badge/FTK-103B46?style=for-the-badge)
+![Belkasoft](https://img.shields.io/badge/Belkasoft-103B46?style=for-the-badge)
 
 ### Platforms & Environments
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Programming, AI/ML & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-103B46?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-103B46?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-103B46?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-103B46?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -142,9 +137,9 @@ A real-time intrusion detection system combining supervised and unsupervised mac
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit1109-h&show_icons=true&theme=tokyonight" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1109-h&layout=compact&theme=tokyonight" alt="Most used languages" />
-  <img src="https://streak-stats.demolab.com?user=ankit1109-h&theme=tokyonight" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit1109-h&show_icons=true&theme=dark&hide_border=true&title_color=00BFA5&text_color=CBD5E1&bg_color=0D1117" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1109-h&layout=compact&theme=dark&hide_border=true&title_color=00BFA5&text_color=CBD5E1&bg_color=0D1117" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=ankit1109-h&theme=dark&hide_border=true&background=0D1117&ring=00BFA5&fire=00BFA5&currStreakLabel=00BFA5" alt="GitHub contribution streak" />
 </div>
 
 [View my repositories](https://github.com/ankit1109-h?tab=repositories)
@@ -170,3 +165,5 @@ English (Professional) · Hindi (Professional) · German (Beginner)
 Security research and testing should always be conducted ethically and with appropriate authorization.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,100:00A896&height=90&section=footer" alt="" width="100%" />
